@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
+        ///这应该是第二条分支
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
